@@ -1,0 +1,1 @@
+This directory is intentionally empty. This file exists to ensure the directory is picked up by VCS, as the mod will not work if it is missing.
