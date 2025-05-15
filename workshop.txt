@@ -1,5 +1,5 @@
 version=1
-id=2182855819
+id=3481847135
 title=[B42 Port] Zombies Fear The Sun
 description=Port of [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2182855819]Zombies Fear The Sun[/url] for Build 42.
 description=This didn't require any code changes, so please direct any praise to the original authors.
@@ -21,6 +21,5 @@ description=Lure chance - chance zombies decide to come out at night. Applied to
 description=This was inspired by the zombies in the show "Kingdom", and I used a good portion of code in FearTheRain by Stephanus van Zyl AKA Viceroy.
 description=
 description=This mod is open source with GPL https://github.com/crispiboi/FearTheSun
-description=
 tags=Build 42;Misc;Silly/Fun
 visibility=public
